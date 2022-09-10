@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **t0ti20@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vTSqtrabcXT93XRvZS8vVDRqbQSfTfyK/view?usp=sharing](https://drive.google.com/file/d/1vTSqtrabcXT93XRvZS8vVDRqbQSfTfyK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZD1trCyJmoxkgvgIRPBUw184ubzF1-5O/view](https://drive.google.com/file/d/1ZD1trCyJmoxkgvgIRPBUw184ubzF1-5O/view)
 
 - ⚡ Fun fact **All My Knowledge I've Gained Was By Selflearning**
 
