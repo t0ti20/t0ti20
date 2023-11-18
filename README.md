@@ -46,10 +46,9 @@
   <a href="https://www.keil.com/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Keil_(company)/Keil_(company)-Logo.wine.svg" alt="keil" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="Bash" width="40" height="40"/></a>
-<h3>:fire: My Stats :</h3>
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t0ti20&theme=dark&background=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0ti20&layout=compact&theme=vision-friendly-dark)
-
+  <div align="center">
+    <h3>- :fire: My Stats :fire: -</h3>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=t0ti20&theme=dark&background=000000" alt="GitHub Streak"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0ti20&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+  </div>
 </p>
